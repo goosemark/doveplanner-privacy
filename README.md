@@ -12,6 +12,6 @@ All calculations and data processing occur entirely on your device. The app does
 **Third-Party Services:** None  
 
 If you have any questions or concerns about this privacy policy, you can reach me at:  
-📧 **[your email here]**
+📧 egossling@me.com
 
 © 2025 Eric Gossling. All rights reserved.
