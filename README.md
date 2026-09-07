@@ -1,15 +1,15 @@
-# Dove Planner Privacy Policy
+# Dove Hunt Privacy Policy
 
 Effective date: September 7, 2026
 Developer: Eric Gossling
 
-Dove Planner helps you explore weather and daylight conditions for outdoor planning. No account is required. The app contains no advertising or third-party analytics and does not track you across other apps or websites.
+Dove Hunt helps you explore weather and daylight conditions for outdoor planning. No account is required. The app contains no advertising or third-party analytics and does not track you across other apps or websites.
 
 ## Location and Apple services
 
-If you grant location permission, Dove Planner uses your device’s location while the app is in use to request local weather through Apple WeatherKit and identify your area through Apple’s geocoding services. The app does not request background location access. You can instead search for a town, address, or landmark without granting device location access. Search text and the coordinates needed for weather requests are sent to Apple to fulfill those requests. Apple’s handling of information is governed by its privacy policy: https://www.apple.com/legal/privacy/.
+If you grant location permission, Dove Hunt uses your device’s location while the app is in use to request local weather through Apple WeatherKit and identify your area through Apple’s geocoding services. The app does not request background location access. You can instead search for a town, address, or landmark without granting device location access. Search text and the coordinates needed for weather requests are sent to Apple to fulfill those requests. Apple’s handling of information is governed by its privacy policy: https://www.apple.com/legal/privacy/.
 
-Dove Planner does not operate a server that receives or stores your location, searches, or weather requests.
+Dove Hunt does not operate a server that receives or stores your location, searches, or weather requests.
 
 ## Information stored on your device
 
